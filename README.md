@@ -1,3 +1,7 @@
+# Nested Stepper Example Forked from Bruno Tutorial
+
+Here's a code sandbox [for reference](https://codesandbox.io/s/blissful-star-d9xj8?file=/src/pages/index.tsx).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
